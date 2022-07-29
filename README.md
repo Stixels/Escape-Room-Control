@@ -16,4 +16,4 @@ Software to create and control escape room control terminals
 
 ## Optional
 - Waivers with database
-- Automatic escape rates allow for people, experienced, time, notes
+- Database for automatic escape rate allow for people, experienced, time, notes
